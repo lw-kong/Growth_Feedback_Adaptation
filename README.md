@@ -20,4 +20,4 @@ A key contribution of this work is the results showcasing distributions of vario
 
 After loading the MAT-file 'save_simulations_all.mat', you can run the code 'Analysis/plot_failure_reason_6_3.m' to generate the pie chart in Fig. 2 of the paper. Here, we use a loop `for network_i = 1:size(network_set,1) ... end` to generate the pie chart. By fixing `network_i` to a fixed value or including any conditions to filter out certain topologies, you may generate the pie chart for any subset of network topologies.
 
-The categorization of failure types are accomplished by the codes 'Analysis/failure_reason_6_3.m' and 'Analysis/loss_6_3_type.m'. We have already merged their results into 'save_simulations_all.mat'.
+The categorization of failure types is accomplished by the codes 'Analysis/failure_reason_6_3.m' and 'Analysis/loss_6_3_type.m'. We have already merged their results into 'save_simulations_all.mat'.
