@@ -8,11 +8,11 @@ The circuit topologies used in this paper are stored in the folder 'Data'. Pleas
 
 ## Simulations of circuit dynamics
 
-The massive simulations of different network topologies with different sets of circuit parameters are run by 'LoopNet_Latin\solve_loopNet_Latin_6.m'. It relies on the network topology data from the 'Data' folder and various functions from the 'ODE' folder. The results are saved in 'save_simulations_all.mat'. Since GitHub has a limit on file size, we have uploaded this file to our [OSF repository](https://osf.io/yxm2v/).
+The massive simulations of different network topologies with different sets of circuit parameters are run by 'LoopNet_Latin\solve_loopNet_Latin_6.m'. It relies on the network topology data from the 'Data' folder and various functions from the 'ODE' folder. The results are saved in 'save_simulations_all.mat'. Since GitHub has a limit on file size, we have uploaded this file to our [OSF repository](https://osf.io/pzy7r/).
 
 ## Analysis
 
-After the massive simulations, we perform our analysis on the simulation results, which are saved in 'save_simulations_all.mat' in our [OSF repository](https://osf.io/yxm2v/). So this file should always be loaded.
+After the massive simulations, we perform our analysis on the simulation results, which are saved in 'save_simulations_all.mat' in our [OSF repository](https://osf.io/pzy7r/). So this file should always be loaded.
 
 ### Distribution of different failure types
 
