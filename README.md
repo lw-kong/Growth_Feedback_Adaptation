@@ -13,3 +13,7 @@ The massive simulations of different network topologies with different sets of c
 ## Analysis
 
 After the massive simulations, we perform our analysis on the simulation results, which are saved in 'save_simulations_all.mat'. So this file should always be loaded.
+
+### Distribution of different failure types
+
+A key contribution of this work is the results showcasing distributions of various failure types across different circuit topologies. Recognizing that some readers may desire a detailed examination of distributions within specific circuit topologies, or families of circuits sharing similar motifs or connections, we have made all relevant data and code available. This enables the generation of pie charts akin to those presented in Fig. 2 of the paper, applicable to any subgroup of circuits we have studied.
