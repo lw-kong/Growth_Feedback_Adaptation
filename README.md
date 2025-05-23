@@ -1,6 +1,6 @@
 # Effects of growth feedback on adaptive gene circuits: A dynamical understanding
 
-This repository contains the codes and data from our paper Effects of growth feedback on adaptive gene circuits: A dynamical understanding, which is about to be published on eLife.
+This repository contains the code and data from our paper Dynamical mechanisms of growth-feedback effects on adaptive gene circuits, which will be published on eLife.
 
 ## Data
 
